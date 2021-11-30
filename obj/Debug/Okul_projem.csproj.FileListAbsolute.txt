@@ -1,0 +1,16 @@
+C:\Users\yesil\Desktop\projem\Okul_projem\bin\Debug\Okul_projem.exe.config
+C:\Users\yesil\Desktop\projem\Okul_projem\bin\Debug\Okul_projem.exe
+C:\Users\yesil\Desktop\projem\Okul_projem\bin\Debug\Okul_projem.pdb
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.csprojAssemblyReference.cache
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.Form1.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.FrmOgrenciNotlar.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.Properties.Resources.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.csproj.GenerateResource.cache
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.csproj.CoreCompileInputs.cache
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.exe
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.pdb
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.FrmOgretmen.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.FrmKulup.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.FrmDersler.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.FrmOgrenci.resources
+C:\Users\yesil\Desktop\projem\Okul_projem\obj\Debug\Okul_projem.FrmSınavNotlar.resources
